@@ -16,7 +16,7 @@
 
 ## 💻 Technology Stack
 
-> Инструменты и технологии, с которыми работаю.
+> Tools and technologies I work with.
 
 ---
 
