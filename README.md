@@ -47,15 +47,3 @@
 | PyTest | Postman |
 |--------|---------|
 | ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white) | ![Postman](https://skillicons.dev/icons?i=postman) |
-
----
-
-## 📂 Проекты
-
-| Проект | Описание | Стек |
-|--------|----------|------|
-| [GymOps](https://github.com/decemlabs/gym-management-system) | Система управления сетью фитнес-клубов: клиенты, абонементы, продажи, посещения, расписание | Django, PostgreSQL, uv |
-| [CineMatch](https://github.com/decemlabs/CineMatch) | Подбор фильмов с первой сессии — персонализация на эмбеддингах контента, без истории просмотров | FastAPI, Postgres + pgvector, React PWA, Docker |
-| [lolzpy](https://github.com/decemlabs/lolzpy) | Типизированный Python SDK для LOLZ Forum и ZT.Market, опубликован на PyPI | Python, Pydantic v2, PyPI |
-| [Workshop Ops](https://github.com/decemlabs/workshop-ops) | MES-система: учёт цехов, рабочих и производственных задач | Django, DRF, PostgreSQL, React, Docker |
-| [DRF Template](https://github.com/decemlabs/drf-template) | Шаблон бэкенда: вход по сессии, OpenAPI-схема, продакшен-настройки | Django, DRF, uv, Docker |
