@@ -22,9 +22,9 @@
 
 ### 🧠 Backend
 
-| Python | Django | DRF | Celery |
-|--------|--------|-----|--------|
-| ![Python](https://skillicons.dev/icons?i=python) | ![Django](https://skillicons.dev/icons?i=django) | ![DRF](https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white) | ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white) |
+| Python | Django | DRF | FastAPI | aiogram | Celery |
+|--------|--------|-----|---------|---------|--------|
+| ![Python](https://skillicons.dev/icons?i=python) | ![Django](https://skillicons.dev/icons?i=django) | ![DRF](https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white) | ![FastAPI](https://skillicons.dev/icons?i=fastapi) | ![aiogram](https://img.shields.io/badge/aiogram-2CA5E0?style=flat-square&logo=telegram&logoColor=white) | ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white) |
 
 ---
 
