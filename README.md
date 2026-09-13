@@ -38,9 +38,9 @@
 
 ### 🐳 DevOps & Infrastructure
 
-| Docker | Nginx | Linux | Git | GitHub |
+| Docker | Caddy | Linux | Git | GitHub |
 |--------|-------|-------|-----|--------|
-| ![Docker](https://skillicons.dev/icons?i=docker) | ![Nginx](https://skillicons.dev/icons?i=nginx) | ![Linux](https://skillicons.dev/icons?i=linux) | ![Git](https://skillicons.dev/icons?i=git) | ![GitHub](https://skillicons.dev/icons?i=github) |
+| ![Docker](https://skillicons.dev/icons?i=docker) | ![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white) | ![Linux](https://skillicons.dev/icons?i=linux) | ![Git](https://skillicons.dev/icons?i=git) | ![GitHub](https://skillicons.dev/icons?i=github) |
 
 ---
 
