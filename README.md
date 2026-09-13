@@ -38,9 +38,9 @@
 
 ### 🐳 DevOps & Infrastructure
 
-| Docker | Caddy | Linux | Git | GitHub |
-|--------|-------|-------|-----|--------|
-| ![Docker](https://skillicons.dev/icons?i=docker) | ![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white) | ![Linux](https://skillicons.dev/icons?i=linux) | ![Git](https://skillicons.dev/icons?i=git) | ![GitHub](https://skillicons.dev/icons?i=github) |
+| Docker | Caddy | Linux | Git | GitHub | GitHub Actions |
+|--------|-------|-------|-----|--------|----------------|
+| ![Docker](https://skillicons.dev/icons?i=docker) | ![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white) | ![Linux](https://skillicons.dev/icons?i=linux) | ![Git](https://skillicons.dev/icons?i=git) | ![GitHub](https://skillicons.dev/icons?i=github) | ![GitHub Actions](https://skillicons.dev/icons?i=githubactions) |
 
 ---
 
@@ -49,3 +49,11 @@
 | PyTest | Postman |
 |--------|---------|
 | ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white) | ![Postman](https://skillicons.dev/icons?i=postman) |
+
+---
+
+### 🛠️ Tools
+
+| uv | Ruff | mypy | Pyright |
+|----|------|------|---------|
+| ![uv](https://img.shields.io/badge/uv-DE5FE9?style=flat-square&logo=uv&logoColor=white) | ![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=flat-square&logo=ruff&logoColor=black) | ![mypy](https://img.shields.io/badge/mypy-2A6DB2?style=flat-square&logo=python&logoColor=white) | ![Pyright](https://img.shields.io/badge/Pyright-4B32C3?style=flat-square&logo=python&logoColor=white) |
